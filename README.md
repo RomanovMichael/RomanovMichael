@@ -18,7 +18,6 @@ My name is Mikhail Romanov and I am a frontend developer
 ![CSS3](https://img.shields.io/badge/Code-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Code-Sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Code-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Auth0](https://img.shields.io/badge/Code-Auth0-EB5424?style=flat&logo=auth0&logoColor=white)
 ![SVG](https://img.shields.io/badge/Code-SVG-FFB13B?style=flat&logo=svg&logoColor=white)
 
 ## 🛠 Tools
@@ -35,6 +34,7 @@ My name is Mikhail Romanov and I am a frontend developer
 <!--![Postman](https://img.shields.io/badge/Tool-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ## ☁️ Cloud
+![Auth0](https://img.shields.io/badge/Code-Auth0-EB5424?style=flat&logo=auth0&logoColor=white)
 это ввынсти наверх потом
 ![GraphQL](https://img.shields.io/badge/Code-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/Code-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
