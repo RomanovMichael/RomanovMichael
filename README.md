@@ -1,11 +1,11 @@
 ### Hi, there! :wave:  
 My name is Mikhail Romanov and I am a frontend developer  
 
-:handbag: Primary languages: Javascript / Typescript   
+:handbag: Primary languages: Javascript  
 
 :sunny: Favorite framework: Vue.js
 
-:seedling: I'm currently learning Three.js
+:seedling: I'm currently learning Typescript, Three.js
 
 ## 🔧 Technologies I'm passionate about
 
